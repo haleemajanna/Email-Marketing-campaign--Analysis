@@ -7,7 +7,7 @@ A multi-page Power BI dashboard analyzing email marketing campaign performance �
 Understand which campaign types, devices, and regions drive the strongest engagement and conversions, and identify where bounce/unsubscribe rates signal list health issues.
 
 ## 🗂️ Data Source
- provided during Course completion period at Rows & Columns (email campaign data, Jan– February 2025)
+ provided during Course completion period at Rows & Columns (email campaign data, July 2024– september 2024)
 
 ## 🛠️ Tools Used
 Power BI, DAX, Power Query
